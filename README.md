@@ -7,7 +7,7 @@ To run the project, in development form:
 
 Clone the project: 
 
-git clone https://github.com/alejandro-velardo/ecommerce
+    git clone https://github.com/alejandro-velardo/ecommerce
 
 In ecommerce_frontend:
 
