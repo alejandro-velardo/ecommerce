@@ -9,6 +9,9 @@ Clone the project:
 
     git clone https://github.com/alejandro-velardo/ecommerce
 
+
+Import the db file.
+
 In ecommerce_frontend:
 
     Install the dependencies: 
